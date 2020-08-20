@@ -5,4 +5,6 @@
 * X <- 1
 * S <- 0
 * Z<-  1
+	Escribir "el resultado de la condicion X | Y | X & !Z & !Y es:", X=1 O S=0 O X=1 Y NO Z=1 Y NO S=0
+	Escribir "el resultado de la condicion !X | !Y | Z & X & !Y es:", NO X=1 O NO S=0 O Z=1 Y X=1 Y NO S=0
 * FinAlgoritmo
