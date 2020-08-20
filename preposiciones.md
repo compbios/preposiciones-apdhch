@@ -9,7 +9,6 @@
 
 __________________________________
 # Tercer y cuarto ejercicio
-__________________________________
 
 Algoritmo preposiciones
 	
